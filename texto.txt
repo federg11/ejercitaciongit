@@ -1,0 +1,3 @@
+esta es la rama secundaria del proyecto para trabajar por aparte sin tener que ocasionar problemas
+a la rama main principal
+aqui se va a realizar todo el trabajo y luego a uni por medio del comando merge a la rama principal
